@@ -1,0 +1,37 @@
+
+        /* calling class by .name of the class */
+        .first_box{
+            background-color: rgb(48, 48, 17);
+            color: aquamarine;
+            width: 600px;
+            height: 400px;
+        }
+        .second{
+            background-color: rgb(37, 8, 19);
+            color: aquamarine;
+            width: 300px;
+            height: 200px;
+        }
+        .box3{
+            background-color: blueviolet;
+            color: aquamarine;
+            width: 100px;
+            height: 80px;
+        }
+        .box4{
+            background-color: red;
+            color: aquamarine;
+            width: 100px;
+            height: 50px;
+        }
+
+
+         /* highlight-text used in tow different div in tow different text */
+        .highlight-text{
+            color: black;
+            font-size: 30px;
+            
+            text-align: center;
+        }
+        
+ 
